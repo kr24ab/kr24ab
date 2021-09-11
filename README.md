@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kumar Abhishek
 - 👀 I’m interested in Back End software development 
-- 🌱 I’m currently learning Tableau and Pythom
+- 🌱 I’m currently learning Tableau and Python
 - 💞️ I’m looking to collaborate on Tableau Python
 - 📫 How to reach me kumar.abhishek.24.95@gmail.com
 
