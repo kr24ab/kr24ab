@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kumar Abhishek
-- 👀 I’m interested in Data and Data Warehouses 
-- 🌱 I’m currently learning Tableau
-- 💞️ I’m looking to collaborate on Tableau
+- 👀 I’m interested in Back End software development 
+- 🌱 I’m currently learning Tableau and Pythom
+- 💞️ I’m looking to collaborate on Tableau Python
 - 📫 How to reach me kumar.abhishek.24.95@gmail.com
 
 <!---
